@@ -1,30 +1,28 @@
 <div align="center">
 
 ```
-        ███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗
-        ████╗  ██║██║██║ ██╔╝██╔═══██╗██║     ██╔══██╗
-        ██╔██╗ ██║██║█████╔╝ ██║   ██║██║     ███████║
-        ██║╚██╗██║██║██╔═██╗ ██║   ██║██║     ██╔══██║
-        ██║ ╚████║██║██║  ██╗╚██████╔╝███████╗██║  ██║
-        ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗
+████╗  ██║██║██║ ██╔╝██╔═══██╗██║     ██╔══██╗
+██╔██╗ ██║██║█████╔╝ ██║   ██║██║     ███████║
+██║╚██╗██║██║██╔═██╗ ██║   ██║██║     ██╔══██║
+██║ ╚████║██║██║  ██╗╚██████╔╝███████╗██║  ██║
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Economist · Quant · Analyst · Strategy
- 
-**Budapest → Vienna** &nbsp;|&nbsp;
+
+### Economist at the core | Quant in the making
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-meshkovski-6a9272175/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmeskovski@gmail.com)
-[![GPA](https://img.shields.io/badge/GPA-4.65%20%2F%205.00-2ea44f?style=flat-square)](https://www.corvinus.hu)
  
-[![BSc Applied Economics @ ](https://img.shields.io/badge/BSc%20Applied%20Economics-Corvinus%20University-8B0000?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.uni-corvinus.hu/post/landing-page/bachelors/bsc-in-applied-economics/?lang=en)
-[![MSc Quantitative Finance @ ](https://img.shields.io/badge/MSc%20Quantitative%20Finance-WU%20Vienna-003B6F?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.wu.ac.at/en/programs/masters-programs/quantitative-finance/overview)
+[![BSc Applied Economics @ Corvinus University of Budapest](https://img.shields.io/badge/BSc%20Applied%20Economics%20%40%20Corvinus%20Budapest-8B0000?style=flat-square&logoColor=white)](https://www.uni-corvinus.hu/post/landing-page/bachelors/bsc-in-applied-economics/?lang=en)
+[![MSc Quantitative Finance @ WU Vienna](https://img.shields.io/badge/MSc%20Quantitative%20Finance%20%40%20WU%20Vienna-003B6F?style=flat-square&logoColor=white)](https://www.wu.ac.at/en/programs/masters-programs/quantitative-finance/overview)
  
 </div>
 
 ---
 
-## ⚡ Who I Am
+##  Who I Am
 
 I turn messy, multi-market data into decisions that stick. Currently at **Sanofi** (Financial Controlling), I build the dashboards and analytics pipelines that regional management actually uses. Before that: market entry strategies for Netflix (think-cell Global Case Competition, **#1 worldwide**), pharma scale-ups in Africa, and fintech opportunities across the EU.
 
@@ -32,15 +30,20 @@ I'm not a generalist—I specialise at the intersection of **quantitative rigor*
 
 ---
 
+## Featured Projects
+
+
+---
+
 ## 🏆 Wins That Matter
 
 | Competition | Result | Scale | Year |
-|---|---|---|
+|---|---|---|---|
 | 🥇 **think-cell Global Graduate Case Competition** | **1st Place** | 500+ teams · 2,200+ participants | 2025 |
 | 🥇 **think-cell EMEA Graduate Case Competition** | **1st Place** | EMEA-wide | 2025 |
 | 🥇 **EU Digital Innovation Incubator** *(Raiffeisen Bank)* | **1st Place** | 400+ teams · 1,600+ participants | 2025 |
-| 🥉 **Estimathon by Jane Street** — Quantitative Estimation | **3rd Place** | 50+ teams | 2024 |
-| 🥉 **Investment Competition by Corvinus Investment Club** | **3rd Place** | 50+ participants | 2024
+| 🥉 **Estimathon by Jane Street** - Quantitative Estimation | **3rd Place** | 50+ teams | 2024 |
+| 🥉 **Investment Competition by Investment Club** | **3rd Place** | 50+ participants | 2024 |
 | Stipendium Hungaricum Full Ride Scholarship | **~30000€** Scholarship | **3.75% Acceptance rate - 80,000 applicants** | 2023 |
 
 ---
@@ -84,30 +87,15 @@ Platforms
 
 ---
 
-## 📁 Featured Projects
-
-### 🌍 Health Economics: Gender Health Inequalities in the Netherlands
-*IISR International Institute for Strategic Research — Selected from 1,400+ applicants across 22 countries*
-
-Analysed gender-based health disparities using econometric methods. Research acknowledged at an international panel discussion attended by PhD, MSc, and BSc scholars worldwide.
-
----
-
-### 📊 COIL Labor Market Analysis — UW × Corvinus
-*Cross-border quantitative research project*
-
-Led a team of 3 processing **500,000+ data points** on labor markets across three countries. Applied multivariable and ordered logistic regression in STATA to examine gender wage disparities. Presented findings at a global webinar.
-
----
-
 ## 📜 Certifications
 
 | Issuer | Certificate | Year |
 |---|---|---|
 | Yale University (Coursera) | Financial Markets | 2025 |
-| Vanderbilt University (Coursera) | ChatGPT Advanced Data Analysis | 2025 |
 | DataCamp | Associate Data Scientist in R | 2025 |
-| Bloomberg | Market Fundamentals + ESG | 2025 |
+| Bloomberg | Market Fundamentals | 2025 |
+| Bloomberg | Environmental, Social, and Governance | 2025 |
+| Vanderbilt University (Coursera) | ChatGPT Advanced Data Analysis | 2024 |
 
 ---
 
