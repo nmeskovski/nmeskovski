@@ -1,16 +1,15 @@
 <div align="center">
 
 ```
-███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗
-████╗  ██║██║██║ ██╔╝██╔═══██╗██║     ██╔══██╗
-██╔██╗ ██║██║█████╔╝ ██║   ██║██║     ███████║
-██║╚██╗██║██║██╔═██╗ ██║   ██║██║     ██╔══██║
-██║ ╚████║██║██║  ██╗╚██████╔╝███████╗██║  ██║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+███╗   ██╗  ██╗  ██╗  ██╗   ██████╗   ██╗        █████╗
+████╗  ██║  ██║  ██║ ██╔╝  ██╔═══██╗  ██║       ██╔══██╗
+██╔██╗ ██║  ██║  █████╔╝   ██║   ██║  ██║       ███████║
+██║╚██╗██║  ██║  ██╔═██╗   ██║   ██║  ██║       ██╔══██║
+██║ ╚████║  ██║  ██║  ██╗  ╚██████╔╝  ███████╗  ██║  ██║
+╚═╝  ╚═══╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝  ╚═╝  ╚═╝
 ```
 
-
-### Economist at the core | Quant in the making
+### Economist at core | QUANT in the making
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-meshkovski-6a9272175/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmeskovski@gmail.com)
@@ -22,18 +21,19 @@
 
 ---
 
-##  Who I Am
-
-I turn messy, multi-market data into decisions that stick. Currently at **Sanofi** (Financial Controlling), I build the dashboards and analytics pipelines that regional management actually uses. Before that: market entry strategies for Netflix (think-cell Global Case Competition, **#1 worldwide**), pharma scale-ups in Africa, and fintech opportunities across the EU.
-
-I'm not a generalist—I specialise at the intersection of **quantitative rigor** and **strategic clarity**.
-
----
-
 ## Featured Projects
 
 
 ---
+
+## Who I Am
+ 
+Economist turning quant, bridging applied economics and financial data science ahead of an MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU, working at the intersection of quantitative rigor and strategic clarity.
+ 
+> *Specialising at the intersection of **quantitative rigor** and **strategic clarity**.*
+ 
+---
+
 
 ## 🏆 Wins That Matter
 
@@ -71,7 +71,7 @@ Platforms
 
 ---
 
-## 💼 Experience Snapshot
+## Professional Experience Snapshot
 
 **Sanofi — Decision Support & Analytics Trainee** *(Sep 2025 – Present)*
 > Managing 1,000+ knowledge base articles powering AI-driven financial decision support · Power BI & Excel dashboards for 50+ stakeholders across 5+ markets · ~20% efficiency gains in recurring financial reports · Optimised 15+ controlling processes across 3 teams
@@ -112,5 +112,10 @@ Platforms
 **Open to research collaborations, case competitions, and quant finance discussions.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-meshkovski-6a9272175/)
+
+**OR**
+
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-nmeskovski%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmeskovski@gmail.com)
+
 
 </div>
