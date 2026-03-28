@@ -49,7 +49,7 @@ Economist turning quant, bridging applied economics and financial data science a
 ## 🛠️ Technical Stack
 
 <details>
-<summary><b>CLICK ME to expand</b></summary>
+<summary><b>CLICK ME TO EXPAND</b></summary>
 <br>
 
 ```
@@ -83,7 +83,7 @@ Platforms
 ## 📜 Certifications
 
 <details>
-<summary><b>CLICK ME to expand</b></summary>
+<summary><b>CLICK ME TO EXPAND</b></summary>
 <br>
  
 | Issuer | Certificate | Year |
