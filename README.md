@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝  ╚═╝  ╚═╝
 ```
 
-### Economist at core | QUANT in the making
+### Economist at core | Quant in the making
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-meshkovski-6a9272175/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmeskovski@gmail.com)
