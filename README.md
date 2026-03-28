@@ -1,22 +1,25 @@
 <div align="center">
 
 ```
-███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗
-████╗  ██║██║██║ ██╔╝██╔═══██╗██║     ██╔══██╗
-██╔██╗ ██║██║█████╔╝ ██║   ██║██║     ███████║
-██║╚██╗██║██║██╔═██╗ ██║   ██║██║     ██╔══██║
-██║ ╚████║██║██║  ██╗╚██████╔╝███████╗██║  ██║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+        ███╗   ██╗██╗██╗  ██╗ ██████╗ ██╗      █████╗
+        ████╗  ██║██║██║ ██╔╝██╔═══██╗██║     ██╔══██╗
+        ██╔██╗ ██║██║█████╔╝ ██║   ██║██║     ███████║
+        ██║╚██╗██║██║██╔═██╗ ██║   ██║██║     ██╔══██║
+        ██║ ╚████║██║██║  ██╗╚██████╔╝███████╗██║  ██║
+        ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Quantitative Finance · Data Analytics · Strategy
-
-**Budapest → Vienna** &nbsp;|&nbsp; BSc Applied Economics @ Corvinus &nbsp;|&nbsp; MSc Quantitative Finance @ WU Vienna *(Sep 2026)*
-
+### Economist · Quant · Analyst · Strategy
+ 
+**Budapest → Vienna** &nbsp;|&nbsp;
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-meshkovski-6a9272175/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmeskovski@gmail.com)
 [![GPA](https://img.shields.io/badge/GPA-4.65%20%2F%205.00-2ea44f?style=flat-square)](https://www.corvinus.hu)
-
+ 
+[![BSc Applied Economics @ ](https://img.shields.io/badge/BSc%20Applied%20Economics-Corvinus%20University-8B0000?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.uni-corvinus.hu/post/landing-page/bachelors/bsc-in-applied-economics/?lang=en)
+[![MSc Quantitative Finance @ ](https://img.shields.io/badge/MSc%20Quantitative%20Finance-WU%20Vienna-003B6F?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.wu.ac.at/en/programs/masters-programs/quantitative-finance/overview)
+ 
 </div>
 
 ---
@@ -31,27 +34,28 @@ I'm not a generalist—I specialise at the intersection of **quantitative rigor*
 
 ## 🏆 Wins That Matter
 
-| Competition | Result | Scale |
+| Competition | Result | Scale | Year |
 |---|---|---|
-| 🥇 **think-cell Global Case Competition** — Global Graduate Track | **1st Place** | 500+ teams · 2,200+ participants |
-| 🥇 **think-cell Global Case Competition** — EMEA Graduate Track | **1st Place** | EMEA-wide |
-| 🥇 **EU Digital Innovation Incubator** *(Raiffeisen Bank)* | **1st Place** | 400+ teams · 1,600+ participants |
-| 🏅 **Cornell EMI Corning Case** — Healthcare & Pharma, Africa | **Top 10 Global** | 300+ teams · 1,400+ participants |
-| 🥉 **Estimathon by Jane Street** — Quantitative Estimation | **3rd Place** | 50+ teams |
+| 🥇 **think-cell Global Graduate Case Competition** | **1st Place** | 500+ teams · 2,200+ participants | 2025 |
+| 🥇 **think-cell EMEA Graduate Case Competition** | **1st Place** | EMEA-wide | 2025 |
+| 🥇 **EU Digital Innovation Incubator** *(Raiffeisen Bank)* | **1st Place** | 400+ teams · 1,600+ participants | 2025 |
+| 🥉 **Estimathon by Jane Street** — Quantitative Estimation | **3rd Place** | 50+ teams | 2024 |
+| 🥉 **Investment Competition by Corvinus Investment Club** | **3rd Place** | 50+ participants | 2024
+| Stipendium Hungaricum Full Ride Scholarship | **~30000€** Scholarship | **3.75% Acceptance rate - 80,000 applicants** | 2023 |
 
 ---
 
 ## 🛠️ Technical Stack
 
 ```
-Data & Programming      R ████████████████░░  Advanced
-                    Python ████████████░░░░░░  Intermediate
-              Advanced Excel ████████████████░░  Advanced
-                       SQL  ████████░░░░░░░░░░  Working
+Data & Programming      R ███████████████░░░  Advanced
+                    Python █████████░░░░░░░░░  Beginner/Intermediate
+              Advanced Excel ███████████████░░░  Advanced
+                       SQL  ███████░░░░░░░░░░░  Working
 
-Visualization & BI    Power BI ████████████████░░  Advanced
+Visualization & BI    Power BI █████████████░░░░░  Working
                      Tableau  ████████████░░░░░░  Proficient
-                    Thinkcell ████████████████████ Expert
+                    Thinkcell ██████████████████░░ Expert
 
 Quantitative Methods
   Financial Econometrics · VaR Modelling · Time Series Forecasting
