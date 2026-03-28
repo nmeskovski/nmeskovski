@@ -23,17 +23,15 @@
 
 ## Featured Projects
 
-
 ---
 
 ## Who I Am
- 
+
 Economist turning quant, bridging applied economics and financial data science ahead of an MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU, working at the intersection of quantitative rigor and strategic clarity.
  
 > *Specialising at the intersection of **quantitative rigor** and **strategic clarity**.*
- 
----
 
+---
 
 ## 🏆 Wins That Matter
 
@@ -44,11 +42,15 @@ Economist turning quant, bridging applied economics and financial data science a
 | 🥇 **EU Digital Innovation Incubator** *(Raiffeisen Bank)* | **1st Place** | 400+ teams · 1,600+ participants | 2025 |
 | 🥉 **Estimathon by Jane Street** - Quantitative Estimation | **3rd Place** | 50+ teams | 2024 |
 | 🥉 **Investment Competition by Investment Club** | **3rd Place** | 50+ participants | 2024 |
-| Stipendium Hungaricum Full Ride Scholarship | **~30000€** Scholarship | **3.75% Acceptance rate - 80,000 applicants** | 2023 |
+| **Stipendium Hungaricum Full Ride Scholarship** | **~30000€** Scholarship | **3.75% Acceptance rate - 80,000 applicants** | 2023 |
 
 ---
 
 ## 🛠️ Technical Stack
+
+<details>
+<summary><b>CLICK ME to expand</b></summary>
+<br>
 
 ```
 Data & Programming      R ███████████████░░░  Advanced
@@ -68,27 +70,22 @@ Quantitative Methods
 Platforms
   IBM TM1 / Planning Analytics · Quarto · Git
 ```
+</details>
 
 ---
 
-## Professional Experience Snapshot
+## Professional Experience
 
-**Sanofi — Decision Support & Analytics Trainee** *(Sep 2025 – Present)*
-> Managing 1,000+ knowledge base articles powering AI-driven financial decision support · Power BI & Excel dashboards for 50+ stakeholders across 5+ markets · ~20% efficiency gains in recurring financial reports · Optimised 15+ controlling processes across 3 teams
-
-**Institute of Economics — Teaching Assistant, Statistics & Econometrics** *(Jan 2025 – Jan 2026)*
-> Automated exam grading for 250+ students (40% faster) · Supported quant finance research across 10+ financial panel datasets · Delivered seminars to 150+ students
-
-**Corvinus Science Shop — Impact Measurement Intern** *(Oct 2024 – Jan 2026)*
-> Built SDG impact measurement systems for 40+ NGOs and social enterprises · Achieved 25% higher survey response rates · R + Tableau for quantitative impact reporting
-
-**Relevant Ventures — Financial & Business Analyst** *(May – Sep 2025)*
-> Investment-ready business cases with 4-year forecasts, P&L, and scenario cash flow models for EU and East African ventures
-
+[![Resume](https://img.shields.io/badge/Download%20Full%20Resume-PDF-8B0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1NLDU5GN8MAAdTfadUkgmsTNHqczIQTA0/view?usp=sharing)
+ 
 ---
 
 ## 📜 Certifications
 
+<details>
+<summary><b>CLICK ME to expand</b></summary>
+<br>
+ 
 | Issuer | Certificate | Year |
 |---|---|---|
 | Yale University (Coursera) | Financial Markets | 2025 |
@@ -96,6 +93,8 @@ Platforms
 | Bloomberg | Market Fundamentals | 2025 |
 | Bloomberg | Environmental, Social, and Governance | 2025 |
 | Vanderbilt University (Coursera) | ChatGPT Advanced Data Analysis | 2024 |
+
+</details>
 
 ---
 
