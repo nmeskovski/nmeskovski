@@ -40,7 +40,7 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/hidden-scars-netherlands">
-        <img src="https://raw.githubusercontent.com/nmeskovski/hidden-scars-netherlands/main/IISR_Certificate_Nikola_Meshkovski.png" width="100%" height="260"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/hidden-scars-netherlands/main/IISR_Certificate_Nikola_Meshkovski.png" width="100%" height="250"/>
       </a>
       <br><br>
       <b>Gender Health Inequalities in the Netherlands</b><br>
@@ -52,7 +52,7 @@ Economist turning quant, bridging applied economics and financial data science a
 
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/ncd-mortality-determinants">
-        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/ncd_mortality_choropleth.png" width="100%" height="260"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/ncd_mortality_choropleth.png" width="100%" height="250"/>
       </a>
       <br><br>
       <b>Structural Determinants of NCD Mortality Across Countries</b><br>
