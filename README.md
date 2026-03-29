@@ -40,14 +40,14 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/8B0000/FFFFFF?text=Health+Economics+%7C+IISR" width="100%" height="150"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/project1.png" width="100%" height="150"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
       <sub>Health Economics · Econometrics · IISR Recognition</sub><br><br>
       Selected from 1,400+ applicants across 22 countries. Analysed gender-based health disparities using econometric methods. Findings presented at an international panel with PhD & MSc scholars worldwide.
       <br><br>
-      <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
+      <a href="https://github.com/nmeskovski/hidden-scars-netherlands"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
    </td>
 
  
