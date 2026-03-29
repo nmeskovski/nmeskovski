@@ -29,7 +29,7 @@ Economist turning quant, bridging applied economics and financial data science a
 
 ---
 
-## Featured Projects
+## Featured Projects & Research
 
 <table>
  
