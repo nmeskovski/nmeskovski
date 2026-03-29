@@ -1,4 +1,4 @@
-<div align="center">
+<img width="929" height="648" alt="IISR_Certificate_Nikola Meshkovski" src="https://github.com/user-attachments/assets/e5a51f9b-f508-4d88-a855-5e0dc3d33709" /><div align="center">
 
 ```
 ███╗   ██╗  ██╗  ██╗  ██╗   ██████╗   ██╗        █████╗
@@ -40,7 +40,7 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/project1.png" width="100%" height="150"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/IISR_Certificate_Nikola Meshkovski.png" width="100%" height="150"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
