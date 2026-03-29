@@ -39,8 +39,8 @@ Economist turning quant, bridging applied economics and financial data science a
   <tr>
    
    <td width="50%" valign="top">
-      <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/IISR_Certificate_Nikola Meshkovski.png" width="100%" height="200"/>
+      <a href="https://github.com/nmeskovski/hidden-scars-netherlands">
+        <img src="https://raw.githubusercontent.com/nmeskovski/hidden-scars-netherlands/blob/main/IISR_Certificate_Nikola_Meshkovski.png" width="100%" height="200"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
