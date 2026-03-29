@@ -1,4 +1,4 @@
-<img width="929" height="648" alt="IISR_Certificate_Nikola Meshkovski" src="https://github.com/user-attachments/assets/e5a51f9b-f508-4d88-a855-5e0dc3d33709" /><div align="center">
+<div>
 
 ```
 ███╗   ██╗  ██╗  ██╗  ██╗   ██████╗   ██╗        █████╗
@@ -40,7 +40,7 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/IISR_Certificate_Nikola Meshkovski.png" width="100%" height="150"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/IISR_Certificate_Nikola Meshkovski.png" width="100%" height="200"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
@@ -53,7 +53,7 @@ Economist turning quant, bridging applied economics and financial data science a
  
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%" height="150"/>
+        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%" height="200"/>
       </a>
       <br><br>
       <b>📊 Labor Market Analysis — UW × Corvinus</b><br>
