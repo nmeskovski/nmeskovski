@@ -40,7 +40,7 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/hidden-scars-netherlands">
-        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/assets/IISR_Certificate_Nikola_Meshkovski.png" width="100%" height="200"/>
+        <img src="https://raw.githubusercontent.com/nmeskovski/hidden-scars-netherlands/main/IISR_Certificate_Nikola_Meshkovski.png" width="100%" height="250"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
@@ -53,7 +53,7 @@ Economist turning quant, bridging applied economics and financial data science a
  
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%" height="200"/>
+        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%" height="250"/>
       </a>
       <br><br>
       <b>📊 Labor Market Analysis — UW × Corvinus</b><br>
