@@ -40,7 +40,7 @@ Economist turning quant, bridging applied economics and financial data science a
    
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/8B0000/FFFFFF?text=Health+Economics+%7C+IISR" width="100%"/>
+        <img src="https://via.placeholder.com/600x300/8B0000/FFFFFF?text=Health+Economics+%7C+IISR" width="100%" height="150"/>
       </a>
       <br><br>
       <b>🌍 Gender Health Inequalities in the Netherlands</b><br>
@@ -53,7 +53,7 @@ Economist turning quant, bridging applied economics and financial data science a
  
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%"/>
+        <img src="https://via.placeholder.com/600x300/1a3a5c/FFFFFF?text=Labor+Market+Analysis+%7C+COIL" width="100%" height="150"/>
       </a>
       <br><br>
       <b>📊 Labor Market Analysis — UW × Corvinus</b><br>
@@ -62,6 +62,7 @@ Economist turning quant, bridging applied economics and financial data science a
       <br><br>
       <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View%20Project-1a3a5c?style=flat-square&logoColor=white"/></a>
    </td>
+   
  
   </tr>
  
@@ -73,7 +74,7 @@ Economist turning quant, bridging applied economics and financial data science a
  
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/2d6a4f/FFFFFF?text=NCD+Mortality+%7C+Cross-Country+Analysis" width="100%"/>
+        <img src="https://via.placeholder.com/600x300/2d6a4f/FFFFFF?text=NCD+Mortality+%7C+Cross-Country+Analysis" width="100%" height="150"/>
       </a>
       <br><br>
       <b>🔬 Structural Determinants of NCD Mortality Across Countries</b><br>
@@ -86,7 +87,7 @@ Economist turning quant, bridging applied economics and financial data science a
  
    <td width="50%" valign="top">
       <a href="YOUR_REPO_LINK_HERE">
-        <img src="https://via.placeholder.com/600x300/4a4a4a/FFFFFF?text=Coming+Soon" width="100%"/>
+        <img src="https://via.placeholder.com/600x300/4a4a4a/FFFFFF?text=Coming+Soon" width="100%" height="150"/>
       </a>
       <br><br>
       <b>🚧 Project Title Here</b><br>
