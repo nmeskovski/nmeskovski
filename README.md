@@ -29,7 +29,7 @@ Economist turning quant, bridging applied economics and financial data science a
 
 ---
 
-## Featured Projects & Research
+## Featured Research
 
 <table>
  
@@ -148,7 +148,7 @@ Platforms
 
 ## Professional Experience
 
-[![Resume](https://img.shields.io/badge/Download%20Full%20Resume-PDF-8B0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1NLDU5GN8MAAdTfadUkgmsTNHqczIQTA0/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Full%20Resume-PDF-8B0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1NLDU5GN8MAAdTfadUkgmsTNHqczIQTA0/view?usp=sharing)
  
 ---
 
