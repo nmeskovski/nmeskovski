@@ -23,7 +23,7 @@
 
 ## Who I Am
 
-Economist turning quant, bridging applied economics and financial data science ahead of an MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU, working at the intersection of quantitative rigor and strategic clarity.
+Economist turning quant, bridging applied economics and financial data science ahead of an MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU.
  
 > *Specialising at the intersection of **quantitative rigor** and **strategic clarity**.*
 
