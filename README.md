@@ -38,7 +38,7 @@ Economist turning quant, bridging applied economics and financial data science a
   <!-- ============================================================ -->
   <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/informality-monetary-transmission">
         <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/Project3-IRF_Plots_Inflation_Response.jpg" width="100%" height="250"/>
       </a>
