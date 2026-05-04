@@ -37,6 +37,26 @@ Economist turning quant, bridging applied economics and financial data science a
   <!-- ROW 1                                                        -->
   <!-- ============================================================ -->
   <tr>
+
+<td width="100%" valign="top">
+      <a href="https://github.com/nmeskovski/informality-monetary-transmission">
+        <img src="https://raw.githubusercontent.com/nmeskovski/nmeskovski/main/assets/Project3-IRF_Plots_Inflation_Response.jpg" width="100%" height="250"/>
+      </a>
+      <br><br>
+      <b>Gender Health Inequalities in the Netherlands</b><br>
+      <sub>Health Economics · STATA Econometrics · IISR Recognition</sub><br><br>
+      This paper tests whether the size of a country's informal economy moderates the transmission of identified monetary policy shocks to inflation and real output. Using panel local projections across 122 countries over 2000–2019, and interacting the Choi–Willems–Yoo (2024) shock series with the Medina–Schneider (2018) MIMIC informality measure, the study finds that a larger informal sector significantly dampens both the inflation response and the anomalous positive output response to a contractionary shock — effects concentrated in emerging economies and statistically undetectable in advanced ones.
+      <br><br>
+      <a href="https://github.com/nmeskovski/informality-monetary-transmission"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
+   </td>
+
+  </tr>
+
+  <!-- ============================================================ -->
+  <!-- ROW 2                                                        -->
+  <!-- ============================================================ -->
+  
+  <tr>  
    
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/hidden-scars-netherlands">
@@ -66,7 +86,7 @@ Economist turning quant, bridging applied economics and financial data science a
   </tr>
  
   <!-- ============================================================ -->
-  <!-- ROW 2                                                        -->
+  <!-- ROW 3                                                        -->
   <!-- ============================================================ -->
   <tr>
 
