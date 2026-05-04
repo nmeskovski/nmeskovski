@@ -45,7 +45,7 @@ Economist turning quant, combining applied economics and financial data science 
       <br><br>
       <b>Identifying the Conditional Transmission of Monetary Policy Through Panel Local Projections</b><br>
       <sub>Monetary Policy · Quarto (R) Econometrics · Local Projections</sub><br><br>
-     The paper examines whether informality weakens monetary policy transmission using panel local projections for 122 countries (2000–2019). Higher informality significantly dampens the inflation response at impact and after one year (δ₁ = 0.061, p = 0.015), implying ~1.1 pp gap between developed and emerging economies, and reduces the puzzle-like positive output response toward zero (δ₀ = −0.0003, p = 0.001). These effects are driven by emerging markets and are not significant in developed economies.
+     Examined whether informality weakens monetary policy transmission using panel local projections for 122 countries (2000–2019). Higher informality significantly dampens the inflation response at impact and after one year (δ₁ = 0.061, p = 0.015), implying ~1.1 pp gap between developed and emerging economies, and reduces the puzzle-like positive output response toward zero (δ₀ = −0.0003, p = 0.001). These effects are driven by emerging markets and are not significant in developed economies.
       <br><br>
       <a href="https://github.com/nmeskovski/informality-monetary-transmission"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
    </td>
