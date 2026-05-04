@@ -49,14 +49,7 @@ Economist turning quant, combining applied economics and financial data science 
       <br><br>
       <a href="https://github.com/nmeskovski/informality-monetary-transmission"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
    </td>
-
-  </tr>
-
-  <!-- ============================================================ -->
-  <!-- ROW 2                                                        -->
-  <!-- ============================================================ -->
   
-  <tr>  
    
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/hidden-scars-netherlands">
@@ -69,6 +62,14 @@ Economist turning quant, combining applied economics and financial data science 
       <br><br>
       <a href="https://github.com/nmeskovski/hidden-scars-netherlands"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
    </td>
+
+</tr>
+
+  <!-- ============================================================ -->
+  <!-- ROW 2                                                        -->
+  <!-- ============================================================ -->
+
+<tr>
 
    <td width="50%" valign="top">
       <a href="https://github.com/nmeskovski/ncd-mortality-determinants">
