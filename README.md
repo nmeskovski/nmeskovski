@@ -23,7 +23,7 @@
 
 ## Who I Am
 
-Economist turning quant, bridging applied economics and financial data science ahead of an MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU.
+Economist turning quant, combining applied economics and financial data science ahead of an incoming September 2026 MSc in Quantitative Finance at WU Vienna (Top 20 QS, 2026). I manage a 1000+ article knowledge base powering internal AI. I design KPI frameworks, dashboards, and automation pipelines that drive efficiency gains and support decision-making across global markets. I’ve achieved 🥇 first place in global case competitions, including sports broadcasting market entry for Netflix, pharma scale-up strategies in Africa, and AI-fintech opportunity assessments for Raiffeisen Bank across the EU.
  
 > *Specialising at the intersection of **quantitative rigor** and **strategic clarity**.*
 
@@ -45,7 +45,7 @@ Economist turning quant, bridging applied economics and financial data science a
       <br><br>
       <b>Gender Health Inequalities in the Netherlands</b><br>
       <sub>Health Economics · STATA Econometrics · IISR Recognition</sub><br><br>
-      This paper tests whether the size of a country's informal economy moderates the transmission of identified monetary policy shocks to inflation and real output. Using panel local projections across 122 countries over 2000–2019, and interacting the Choi–Willems–Yoo (2024) shock series with the Medina–Schneider (2018) MIMIC informality measure, the study finds that a larger informal sector significantly dampens both the inflation response and the anomalous positive output response to a contractionary shock — effects concentrated in emerging economies and statistically undetectable in advanced ones.
+     The paper examines whether informality weakens monetary policy transmission using panel local projections for 122 countries (2000–2019). Higher informality significantly dampens the inflation response at impact and after one year (δ₁ = 0.061, p = 0.015), implying ~1.1 pp gap between developed and emerging economies, and reduces the puzzle-like positive output response toward zero (δ₀ = −0.0003, p = 0.001). These effects are driven by emerging markets and are not significant in developed economies.
       <br><br>
       <a href="https://github.com/nmeskovski/informality-monetary-transmission"><img src="https://img.shields.io/badge/View%20Project-8B0000?style=flat-square&logoColor=white"/></a>
    </td>
